@@ -38,15 +38,13 @@ Aplikasi ini dibuat sebagai project pembelajaran untuk melatih pengelolaan data,
 
 ## Struktur Folder
 tabungan_app/
-│
-├── main.py # Program utama (menu)
-├── utils.py # Fungsi bantuan (waktu, validasi input)
-├── storage.py # Pengelolaan file (saldo & CSV)
-├── transaksi.py # Logika transaksi tabungan
-├── laporan.py # Laporan & tampilan data
-│
-├── saldo.txt # Menyimpan saldo terakhir
-└── riwayat.csv # Riwayat transaksi
+- main.py # Program utama (menu)
+- utils.py # Fungsi bantuan (waktu, validasi input)
+- storage.py # Pengelolaan file (saldo & CSV)
+- transaksi.py # Logika transaksi tabungan
+- laporan.py # Laporan & tampilan data
+- saldo.txt # Menyimpan saldo terakhir
+- riwayat.csv # Riwayat transaksi
 
 
 ## Cara Menjalankan Program
