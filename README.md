@@ -10,14 +10,27 @@ Aplikasi ini dibuat sebagai project pembelajaran untuk melatih pengelolaan data,
 
 ## Fitur Utama
 - Menambah saldo tabungan
+  
   <img width="350" height="197" alt="image" src="https://github.com/user-attachments/assets/3e383683-b5c8-4ff1-893f-caebb99d717f" />
 
 - Mengurangi saldo tabungan
+
+  <img width="350" height="194" alt="image" src="https://github.com/user-attachments/assets/f8c96197-2fca-4b82-87f1-38aad2c2a865" />
+
 - Menyimpan saldo ke file (`saldo.txt`)
+
 - Mencatat riwayat transaksi ke file CSV (`riwayat.csv`)
+  <img width="421" height="333" alt="image" src="https://github.com/user-attachments/assets/fa0618b1-0b06-43d4-8b65-b327314aa9dd" />
+
 - Validasi input (mencegah input huruf dan angka negatif)
 - Laporan keuangan total
+  
+  <img width="316" height="233" alt="image" src="https://github.com/user-attachments/assets/fc0c0ad7-863b-4827-99a2-a12741698a12" />
+
 - Laporan keuangan bulanan
+  
+  <img width="319" height="278" alt="image" src="https://github.com/user-attachments/assets/422b2be7-7d7b-4a65-b4a7-431f2c92e769" />
+
 - Struktur kode modular (multi-file)
 
 ---
